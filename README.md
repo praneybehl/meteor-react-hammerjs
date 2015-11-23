@@ -10,7 +10,7 @@ This package is a port of [React-Hammerjs](https://github.com/JedWatson/react-ha
 ### Adding it to your project
 
 ~~~
-meteor add praneybehl:react-hammerjs
+meteor add praneybehl:reactjs-hammerjs
 ~~~
 
 Usage
