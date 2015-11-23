@@ -1,6 +1,6 @@
 Package.describe({
   name: 'praneybehl:react-hammerjs',
-  version: '0.4.2',
+  version: '0.4.2_1',
   summary: 'ReactJS - HammerJS integration. Support touch events in your Meteor app.',
   git: 'https://github.com/praneybehl/meteor-react-hammerjs',
   documentation: 'README.md'
